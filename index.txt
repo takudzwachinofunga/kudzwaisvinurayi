@@ -1,0 +1,234 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kudzwai Moreblessing Svinurayi website R235869S HGISEO</title>
+    <style>
+        body {
+            background-color: white;
+            color: blue;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            border-bottom: 2px solid purple;
+            padding-bottom: 10px;
+        }
+        .project {
+            border: 2px solid purple;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #f0f8ff;
+        }
+        h2 {
+            margin: 0;
+        }
+        a {
+            color: blue;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Kudzwai Moreblessing Svinurayi website R235869S HGISEO</h1>
+    
+    <p>This webpage indexes my laboratory projects from lab 1 to lab 10. You can click on the respective links to view each project.</p>
+    
+    <!-- Project Lab 1 -->
+    <div class="project">
+        <h2>Lab 1: My Curriculum vitae</h2>
+        <p>Used and html script to create my curriculum vitae</p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 1.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 2 -->
+    <div class="project">
+        <h2>Lab 2: Functions of each line of the script used in lab 1</h2>
+        <p>functions of each line of the html script used to create my cv in lab 1</p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 2.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 3 -->
+    <div class="project">
+        <h2>Lab 3: Interactive table</h2>
+        <p>interactive table to collect some personal information</p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 3.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 4 -->
+    <div class="project">
+        <h2>Lab 4: Prime number generator</h2>
+        <p>Random number generator specifically prime numbers between selected values</p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 4.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 5 -->
+    <div class="project">
+        <h2>Lab 5: Web map</h2>
+        <p>Web map of Wedza district, Zimbabwe</p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 5.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 6 -->
+    <div class="project">
+        <h2>Lab 6: Web map, ( Google my maps)</h2>
+        <p>Web map of wedza district, Zimbabwe showing health facilities in the area and the distance of each health facility from Harare</p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 6.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 7 -->
+    <div class="project">
+        <h2>Lab 7: Web map,( Google my maps)</h2>
+        <p>Web map of beautiful views i captured during the festive holiday as i traveled </p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 7.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 8 -->
+    <div class="project">
+        <h2>Lab 8: Web map, (QGIS cloud)</h2>
+        <p>Wedza web mab showing health facilties and business centres </p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 8.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 9 -->
+    <div class="project">
+        <h2>Lab 9: 3D Wedza map</h2>
+        <p> 3D map for Wedza district showing the different terrain in the area</p>
+        <a href="lab9.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 10 -->
+    <div class="project">
+        <h2>Lab 10: Web map(tableau)</h2>
+        <p>Web map showing locations of students around University of Zimbabwe main campus and also spatial distribution of pass mark between the male and female studemts</p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 10.html">Click to View</a>
+    </div>
+
+</body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kudzwai Moreblessing Svinurayi website R235869S HGISEO</title>
+    <style>
+        body {
+            background-color: white;
+            color: blue;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            border-bottom: 2px solid purple;
+            padding-bottom: 10px;
+        }
+        .project {
+            border: 2px solid purple;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #f0f8ff;
+        }
+        h2 {
+            margin: 0;
+        }
+        a {
+            color: blue;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Kudzwai Moreblessing Svinurayi website R235869S HGISEO</h1>
+    
+    <p>This webpage indexes my laboratory projects from lab 1 to lab 10. You can click on the respective links to view each project.</p>
+    
+    <!-- Project Lab 1 -->
+    <div class="project">
+        <h2>Lab 1: My Curriculum vitae</h2>
+        <p>Used and html script to create my curriculum vitae</p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 1.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 2 -->
+    <div class="project">
+        <h2>Lab 2: Functions of each line of the script used in lab 1</h2>
+        <p>functions of each line of the html script used to create my cv in lab 1</p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 2.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 3 -->
+    <div class="project">
+        <h2>Lab 3: Interactive table</h2>
+        <p>interactive table to collect some personal information</p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 3.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 4 -->
+    <div class="project">
+        <h2>Lab 4: Prime number generator</h2>
+        <p>Random number generator specifically prime numbers between selected values</p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 4.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 5 -->
+    <div class="project">
+        <h2>Lab 5: Web map</h2>
+        <p>Web map of Wedza district, Zimbabwe</p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 5.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 6 -->
+    <div class="project">
+        <h2>Lab 6: Web map, ( Google my maps)</h2>
+        <p>Web map of wedza district, Zimbabwe showing health facilities in the area and the distance of each health facility from Harare</p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 6.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 7 -->
+    <div class="project">
+        <h2>Lab 7: Web map,( Google my maps)</h2>
+        <p>Web map of beautiful views i captured during the festive holiday as i traveled </p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 7.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 8 -->
+    <div class="project">
+        <h2>Lab 8: Web map, (QGIS cloud)</h2>
+        <p>Wedza web mab showing health facilties and business centres </p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 8.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 9 -->
+    <div class="project">
+        <h2>Lab 9: 3D Wedza map</h2>
+        <p> 3D map for Wedza district showing the different terrain in the area</p>
+        <a href="lab9.html">Click to View</a>
+    </div>
+
+    <!-- Project Lab 10 -->
+    <div class="project">
+        <h2>Lab 10: Web map(tableau)</h2>
+        <p>Web map showing locations of students around University of Zimbabwe main campus and also spatial distribution of pass mark between the male and female studemts</p>
+        <a href="C:\Users\John\Desktop\Dataset\R235869S WEB GIS\R25869S FINAL\lab 10.html">Click to View</a>
+    </div>
+
+</body>
+>>>>>>> bfd1c99b84691a54a118b70c202c65e5204610a8
+</html>

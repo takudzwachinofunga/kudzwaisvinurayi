@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kudzwai Moreblessing Svinurayi - Geospatial Portfolio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #fafafa;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 60px;
+            padding-bottom: 30px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 300;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            color: #7f8c8d;
+            font-weight: 400;
+            margin-bottom: 20px;
+        }
+
+        .intro {
+            text-align: center;
+            margin-bottom: 50px;
+            color: #555;
+            font-size: 1.1rem;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .project {
+            background: white;
+            border-radius: 8px;
+            padding: 25px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            border: 1px solid #f0f0f0;
+        }
+
+        .project:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+        }
+
+        .project h2 {
+            color: #2c3e50;
+            font-size: 1.3rem;
+            font-weight: 500;
+            margin-bottom: 12px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 8px;
+        }
+
+        .project p {
+            color: #666;
+            margin-bottom: 20px;
+            line-height: 1.5;
+        }
+
+        .project-link {
+            display: inline-block;
+            background: #3498db;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: 500;
+            transition: background-color 0.2s ease;
+        }
+
+        .project-link:hover {
+            background: #2980b9;
+            text-decoration: none;
+        }
+
+        .lab-number {
+            display: inline-block;
+            background: #ecf0f1;
+            color: #2c3e50;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px 15px;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .projects-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+            
+            .project {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <h1>Kudzwai Moreblessing Svinurayi</h1>
+            <div class="subtitle">Geospatial Systems Student | R235869S | HGISEO</div>
+        </div>
+        
+
+        
+        <div class="projects-grid">
+            <!-- Project Lab 1 -->
+            <div class="project">
+                <div class="lab-number">Lab 1</div>
+                <h2>Curriculum Vitae</h2>
+                <p>Professional CV created using HTML, showcasing my academic background and skills in a clean, structured format.</p>
+                <a href="lab 1.html" class="project-link">View Project</a>
+            </div>
+
+            <!-- Project Lab 2 -->
+            <div class="project">
+                <div class="lab-number">Lab 2</div>
+                <h2>HTML Script Analysis</h2>
+                <p>Detailed documentation explaining the function of each line of HTML code used in creating my curriculum vitae.</p>
+                <a href="lab 2.html" class="project-link">View Project</a>
+            </div>
+
+            <!-- Project Lab 3 -->
+            <div class="project">
+                <div class="lab-number">Lab 3</div>
+                <h2>Interactive Data Collection</h2>
+                <p>Interactive table designed to collect and manage personal information with user-friendly interface.</p>
+                <a href="lab 3.html" class="project-link">View Project</a>
+            </div>
+
+            <!-- Project Lab 4 -->
+            <div class="project">
+                <div class="lab-number">Lab 4</div>
+                <h2>Prime Number Generator</h2>
+                <p>Algorithm-based tool for generating prime numbers within specified ranges, demonstrating computational thinking.</p>
+                <a href="lab 4.html" class="project-link">View Project</a>
+            </div>
+
+            <!-- Project Lab 5 -->
+            <div class="project">
+                <div class="lab-number">Lab 5</div>
+                <h2>Wedza District Web Map</h2>
+                <p>Interactive web map of Wedza district, Zimbabwe, showcasing spatial data visualization capabilities.</p>
+                <a href="lab 5.html" class="project-link">View Project</a>
+            </div>
+
+            <!-- Project Lab 6 -->
+            <div class="project">
+                <div class="lab-number">Lab 6</div>
+                <h2>Health Facilities Mapping</h2>
+                <p>Comprehensive web map showing health facilities in Wedza district with distance calculations from Harare using Google My Maps.</p>
+                <a href="lab 6.html" class="project-link">View Project</a>
+            </div>
+
+            <!-- Project Lab 7 -->
+            <div class="project">
+                <div class="lab-number">Lab 7</div>
+                <h2>Travel Photography Map</h2>
+                <p>Personal travel documentation mapping beautiful views captured during festive holidays using Google My Maps.</p>
+                <a href="lab 7.html" class="project-link">View Project</a>
+            </div>
+
+            <!-- Project Lab 8 -->
+            <div class="project">
+                <div class="lab-number">Lab 8</div>
+                <h2>QGIS Cloud Mapping</h2>
+                <p>Advanced web mapping project using QGIS Cloud to display health facilities and business centers in Wedza district.</p>
+                <a href="lab 8.html" class="project-link">View Project</a>
+            </div>
+
+            <!-- Project Lab 9 -->
+            <div class="project">
+                <div class="lab-number">Lab 9</div>
+                <h2>3D Terrain Visualization</h2>
+                <p>Three-dimensional map of Wedza district showcasing different terrain types and elevation variations.</p>
+                <a href="lab 9.html" class="project-link">View Project</a>
+            </div>
+
+            <!-- Project Lab 10 -->
+            <div class="project">
+                <div class="lab-number">Lab 10</div>
+                <h2>Student Distribution Analysis</h2>
+                <p>Tableau-based web map showing student locations around University of Zimbabwe campus and gender-based spatial distribution of academic performance.</p>
+                <a href="lab 10.html" class="project-link">View Project</a>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
